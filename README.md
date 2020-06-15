@@ -2,7 +2,7 @@
 A Phone Book demo implemented by Haskell
 
 
-##Problem Description:
+## Problem Description:
 Write a Haskell main function that repeatedly reads in and executes commands to implement a trivial phonebook program. The commands it should support are:
 
 print           prints the entire phone book
